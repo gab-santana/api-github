@@ -13,7 +13,7 @@ div{
 }
 
 `
-export const WrapperUsername = styled.div`
+export const WrapperUserGeneric = styled.div`
 display:flex;
 align-items: center;
 justify-content: flex-start;

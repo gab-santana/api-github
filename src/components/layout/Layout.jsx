@@ -1,5 +1,5 @@
 import React from 'react';
-import * as S from './Styled';
+import * as S from './styled';
 import Header from '../header';
 
 const Layout = ({ children }) => {

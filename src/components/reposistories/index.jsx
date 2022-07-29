@@ -1,6 +1,6 @@
 import React from 'react';
 import RepositoryItem from '../repository-item';
-import * as S from './Styled'
+import * as S from './styled'
 const Repositories = () => {
   return (
     <S.WrapperTabs selectedTabClassName='is-selected'
